@@ -89,9 +89,9 @@ public class Calculadora {
                 break;
                 
             }    
-            default: 
-                    System.out.println("Valor não Válido!!!!");
-					System.out.println("Por favor digite novamente!!!");
+            default:
+		System.out.println("Valor não Válido!!!!");
+		System.out.println("Por favor digite novamente!!!");
 					
         
         }
