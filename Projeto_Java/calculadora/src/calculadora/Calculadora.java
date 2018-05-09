@@ -45,7 +45,7 @@ public class Calculadora {
         int x,i;
         
         Scanner teclado = new Scanner(System.in);
-        
+        System.out.println("Ola!!!");
         System.out.println("Entre com dois numeros: ");
         
         A = teclado.nextDouble();
